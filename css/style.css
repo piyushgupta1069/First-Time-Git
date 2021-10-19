@@ -1,0 +1,38 @@
+body{
+  background-color: #Effbf9;
+}
+h5{
+  font-weight: bold;
+  color: #66bfbf;
+  padding-bottom: 15px;
+
+}
+.card-header{
+  font-family: 'Acme', sans-serif;
+  font-weight: bold;
+}
+.card-text{
+  font-family: Montserrat;
+}
+.rules{
+  position: absolute;
+  left:10px;
+  top:110px;
+}
+.front-image{
+  height: 600px;
+  width: 1000px;
+}
+/* .container-fluid{
+  padding: 3% 15%;
+} */
+.image{
+  padding: 160px 0 200px 200px;
+}
+#title{
+
+  color: #000;
+}
+.nav-item{
+  padding: 0 18px;
+}
